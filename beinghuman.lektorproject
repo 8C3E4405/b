@@ -1,0 +1,5 @@
+[project]
+name = beinghuman
+
+[servers.ghpages]
+target = ghpages+https://8c3e4405/b.git
