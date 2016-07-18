@@ -1,6 +1,7 @@
 body {
     font-family: 'Verdana', sans-serif;
     margin: 50px 25px;
+    font: 20px 'Merriweather', serif;
 }
 
 a {
@@ -14,13 +15,12 @@ a:hover {
 header, footer, div.page {
     width: 760px;
     margin: 0 auto;
-    background: #daeef3;
     padding: 20px 30px;
 }
 
 header h1 {
-    color: #169bbd;
     margin: 0;
+    font-family: Helvetica;
     font-weight: normal;
     font-size: 42px;
 }
@@ -38,5 +38,8 @@ header nav ul li {
 }
 
 div.page {
-    background: #f1fbfe;
+}
+
+footer {
+    color: #c0c0c0;
 }
