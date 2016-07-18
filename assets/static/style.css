@@ -5,11 +5,7 @@ body {
 }
 
 a {
-    color: #2a99b6;
-}
-
-a:hover {
-    color: #33bbdf;
+    color: #FFA900;
 }
 
 header, footer, div.page {
